@@ -38,5 +38,3 @@ local Window = Rayfield:CreateWindow({
 })
 
 local Tab = Window:CreateTab("Tab Example", 4483362458) -- Title, Image
-
-local Tab = Window:CreateTab("Tab Example", "rewind")
